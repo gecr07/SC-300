@@ -26,6 +26,24 @@ Guía de estudio SC-300
 
 > All objects that you want to synchronize must be direct members of the group. Users, groups, contacts, and computers or devices must all be direct members. Nested group membership isn't resolved. When you add a group as a member, only the group itself is added. Its members aren't added."
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/c1290756-a9e5-408e-8c32-5b2d159c21c8)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/5a55103f-863e-4254-ae66-fc0ebd81d4da)
+
+
+## Cloud device administrator
+
+> Cloud device administrator an enable, disable, and delete devices in Azure AD and read Windows 10 BitLocker keys in the Azure portal. The role does not grant permissions to manage any other properties on the device.
+
+## Azure Joined devices vs Registered Devices
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/d7035d6e-caca-4c17-821c-d2c8775b5849)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/9e78c225-f688-4087-9955-1e268282254a)
+
+
 
 
 
