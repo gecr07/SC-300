@@ -43,9 +43,9 @@ Guía de estudio SC-300
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/9e78c225-f688-4087-9955-1e268282254a)
 
+## Trusted IPs Trusted Locations
 
-
-
+> The biggest difference is the location of the configuration. Trusted IPs is a feature configuration of multi-factor authentication, while named locations is a feature configuration of conditional access
 
 
 
