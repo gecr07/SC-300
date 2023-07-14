@@ -49,7 +49,9 @@ Guía de estudio SC-300
 
 
 
+##  sign in risk police vs user risk policy
 
+> User risk (represents the probability that a given identity or account is compromised.) Sign-in risk (represents the probability that a given authentication request isn't authorized by the identity owner.)
 
 
 
