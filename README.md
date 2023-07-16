@@ -73,6 +73,9 @@ manage license assignments and reset user passwords.
 ![image](https://github.com/gecr07/SC-300/assets/63270579/e0cb86b3-b982-4109-9121-8f7cdc79b822)
 
 
+## What is Application Proxy?
 
+Application Proxy is a feature of Azure AD that enables users to access on-premises web applications from a remote client. Application Proxy includes both the Application Proxy service which runs in the cloud, and the Application Proxy connector which runs on an on-premises server. Azure AD, the Application Proxy service, and the Application Proxy connector work together to securely pass the user sign-on token from Azure AD to the web application.
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/f1b5f6ea-a548-42cf-885c-03d6b99a8496)
 
