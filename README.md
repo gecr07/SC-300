@@ -83,5 +83,6 @@ Application Proxy is a feature of Azure AD that enables users to access on-premi
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/78352342-6699-4dd5-adb9-ac39c9a27336)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/307d22d6-6cb7-4fd3-ad8a-03aa0609e6cf)
 
 
