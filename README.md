@@ -53,5 +53,26 @@ Guía de estudio SC-300
 
 > User risk (represents the probability that a given identity or account is compromised.) Sign-in risk (represents the probability that a given authentication request isn't authorized by the identity owner.)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/39d651e8-a6fc-4ca3-91a1-992b0673cb0c)
+
+## Azure Seamless Single Sign-on 
+
+permite iniciar sesión en Azure AD automáticamente en equipos y redes corporativas. Esta característica gratuita proporciona a los usuarios un fácil acceso a las aplicaciones sin necesidad de componentes locales.
+
+## User Administrato
+
+manage license assignments and reset user passwords.
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/33936ebd-bc99-4a7d-afa3-625972a06534)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/e87c1102-e5b2-48ae-a52b-6e2d5bde5868)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/5afe1012-72cd-4cdb-92b3-635e8c6446dc)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/e0cb86b3-b982-4109-9121-8f7cdc79b822)
+
+
+
 
 
