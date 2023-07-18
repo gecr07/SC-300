@@ -87,3 +87,90 @@ Application Proxy is a feature of Azure AD that enables users to access on-premi
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/6a6dde6b-cc74-4781-b3e0-1987ab2099cf)
 
+## Un service principal ( osea es una identidad)
+
+de tipo aplicación se crea para que sea empleada en representación de una aplicación. Siendo una identidad única y específica para el tenant en el que funcionará.
+
+## Managed identity 
+
+habilita la autenticación de servicios en Azure AD mientras que RBAC habilita la autorización en los servicios. Combinando las dos tendremos servicios que pueden autenticarse y servicios que autorizan su uso a diferentes niveles a los servicios autenticados.
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/3ec5c22a-a51e-4406-9066-68e758faaa44)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/97db0343-b96d-4665-afea-543d27c24935)
+
+> Managed identities for Azure resources is the new name for the service formerly known as Managed Service Identity (MSI).
+
+NO se pueden asignar managment identityes ni a cosas on premise ni a grupos dinamicos. A y me falto solo se pueden asignar a Security groups.
+
+
+## Grupos reviwers SELF 
+
+> Cuando se requiere que los miembros realicen una auto-revisión, solo aparecerá un usuario en la "Descripción general" para revisar, por lo que solo el Usuario3 podrá revisarse a sí mismo.
+
+
+## What are access reviews?
+
+Access reviews in Azure Active Directory (Azure AD), part of Microsoft Entra, enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignments. User's access can be reviewed regularly to make sure only the right people have continued acces
+
+## Microsoft Azure AD entitlement management
+
+can help you efficiently manage access to groups, applications, and Microsoft SharePoint Online sites for internal users, and for users outside your organization who need access to those resources. ( access package ).
+
+## The Privileged Authentication Administrator 
+
+
+
+## The Privileged Role Administrator
+
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/2ce95dd6-69e0-4467-a369-ddc22a020bd5)
+
+## Integrate Azure AD logs with Azure Monitor logs (siemopre que sea algo de integrar AD logs se hace desde Diagnostic settings)
+
+
+
+
+### Azure Workbooks
+
+Son para el analisis d edatos como libros dice ahi canvas pero se usan para anlizar y sacar metricas.
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/d5fcf85c-0081-401a-8ccf-520fb749b332)
+
+
+## Azure Insights ( casi no se usa)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/58af096f-18f8-4869-9ac0-86cb074a21bf)
+
+## Microsoft Sentinel data connectors
+
+data connectors to start ingesting your data into Microsoft Sentinel. Microsoft Sentinel comes with many out of the box connectors for Microsoft services, which integrate in real time. For example, the Microsoft 365 Defender connector is a service-to-service connector that integrates data from Office 365, Azure Active Directory (Azure AD), Microsoft Defender for Identity, and Microsoft Defender for Cloud Apps.
+
+## Access packed policy
+
+Es una politica que restringe por ejemplo que usuarios de x dominio puedan acceder a un access packet( este contiene permisos a servicios etc)
+
+## Group owner permissions
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/8ec8f435-19bc-495a-b5f0-c12a4691c3ed)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/dca49ef5-53ad-4c1e-8b98-22b491178530)
+
+## Contributor Rol ( built in role)
+
+
+Grants full access to manage all resources, but does not allow you to assign roles in Azure RBAC, manage assignments in Azure Blueprints, or share image galleries.
+
+
+## Govern access for external users in entitlement management
+
+
+> Entitlement management uses Azure AD business-to-business (B2B) to share access so you can collaborate with people outside your organization. With Azure AD B2B, external users authenticate to their home directory, but have a representation in your directory. The representation in your directory enables the user to be assigned access to your resources.
+
+
+
+
+
