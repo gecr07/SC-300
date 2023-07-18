@@ -170,6 +170,9 @@ Grants full access to manage all resources, but does not allow you to assign rol
 
 > Entitlement management uses Azure AD business-to-business (B2B) to share access so you can collaborate with people outside your organization. With Azure AD B2B, external users authenticate to their home directory, but have a representation in your directory. The representation in your directory enables the user to be assigned access to your resources.
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/7269805f-3ed0-4fdc-8496-d8fe190327fa)
+
+
 
 
 
