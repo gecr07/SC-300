@@ -174,6 +174,7 @@ Grants full access to manage all resources, but does not allow you to assign rol
 
 
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/b3a80936-9aa5-4bc5-817e-9f39cb58b770)
 
 
 
