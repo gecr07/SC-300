@@ -48,6 +48,9 @@ Guía de estudio SC-300
 > The biggest difference is the location of the configuration. Trusted IPs is a feature configuration of multi-factor authentication, while named locations is a feature configuration of conditional access
 
 
+## Trusted IP = Legacy MFA setting.
+## Named Location = Conditional Access setting.
+
 
 ##  sign in risk police vs user risk policy
 
@@ -176,5 +179,37 @@ Grants full access to manage all resources, but does not allow you to assign rol
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/b3a80936-9aa5-4bc5-817e-9f39cb58b770)
 
+
+## An administrative unit
+
+An administrative unit can contain only users, groups, or devices.
+Administrative units restrict permissions in a role to any portion of your organization that you define.
+
+
+## Security Groups members
+
+>Dynamic and M365 Groups CANNOT be added to security groups
+
+## Microsoft 365 Groups members
+
+Pueden contener solo usuarios.
+
+> M365 groups cannot contain other groups.
+
+## MFA account lockout
+
+The account lockout settings let you specify how many failed attempts you want to allow before the account becomes locked out.
+
+## Max number of devices
+
+Maximum number of devices: This setting enables you to select the maximum number of Azure AD joined or Azure AD registered devices that a user can have in Azure AD. If users reach this limit, they can't add more devices until one or more of the existing devices are removed. The default value is 50. You can increase the value up to 100. If you enter a value above 100, Azure AD will set it to 100. You can also use Unlimited to enforce no limit other than existing quota limits.
+
+## Create catalogs
+
+ From the Identity Governance blade, modify the Entitlement management settings. 
+
+ ## Application Developer
+
+Users in this role can create application registrations when the "Users can register applications" setting is set to No. This role also grants permission to consent on one's own behalf when the "Users can consent to apps accessing company data on their behalf" setting is set to No. Users assigned to this role are added as owners when creating new application registrations.
 
 
