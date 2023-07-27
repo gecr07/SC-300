@@ -210,6 +210,13 @@ Maximum number of devices: This setting enables you to select the maximum number
 
  ![image](https://github.com/gecr07/SC-300/assets/63270579/5ecb2db5-f7ef-400e-8424-8f70d1d60612)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/e8670fcc-e4ac-43cd-a5cf-8d3a10f62442)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/14983f59-df7d-45a8-a500-a482dae1b4e3)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/596a7c3a-0284-4136-8ec0-7cff7ffc1f2a)
+
+
 
  ## Application Developer
 
