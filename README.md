@@ -208,6 +208,9 @@ Maximum number of devices: This setting enables you to select the maximum number
 
  From the Identity Governance blade, modify the Entitlement management settings. 
 
+ ![image](https://github.com/gecr07/SC-300/assets/63270579/5ecb2db5-f7ef-400e-8424-8f70d1d60612)
+
+
  ## Application Developer
 
 Users in this role can create application registrations when the "Users can register applications" setting is set to No. This role also grants permission to consent on one's own behalf when the "Users can consent to apps accessing company data on their behalf" setting is set to No. Users assigned to this role are added as owners when creating new application registrations.
