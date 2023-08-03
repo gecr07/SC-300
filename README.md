@@ -124,14 +124,8 @@ can help you efficiently manage access to groups, applications, and Microsoft Sh
 
 
 
-## The Privileged Role Administrator
-
-
-
-![image](https://github.com/gecr07/SC-300/assets/63270579/2ce95dd6-69e0-4467-a369-ddc22a020bd5)
 
 ## Integrate Azure AD logs with Azure Monitor logs (siemopre que sea algo de integrar AD logs se hace desde Diagnostic settings)
-
 
 
 
@@ -225,6 +219,27 @@ Users in this role can create application registrations when the "Users can regi
 ## Cloud Device Administrator
 
 Users in this role can enable, disable, and delete devices in Azure AD and read Windows 10 BitLocker keys (if present) in the Azure portal. The role does not grant permissions to manage any other properties on the device.
+
+## The Privileged Role Administrator
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/2ce95dd6-69e0-4467-a369-ddc22a020bd5)
+
+
+## User Administrator 
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/e6bb132e-84f8-4c78-95df-3a0e9ce78a53)
+
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/071a245e-ca11-460f-9c9d-6a1a50c3359f)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/894b8e97-358c-41ad-b622-0084e9ade8fa)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/3337ac02-1fe6-4ee3-b9cb-f77454856bfb)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/f2a36352-672e-4b44-be65-c8ac30cb22da)
 
 
 
