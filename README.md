@@ -242,10 +242,22 @@ Users in this role can enable, disable, and delete devices in Azure AD and read 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/f2a36352-672e-4b44-be65-c8ac30cb22da)
 
 
+***VPN Access = The Network Policy Server (NPS) extension for Azure allows organizations to safeguard Remote Authentication Dial-In User Service (RADIUS) client authentication using cloud-based Azure AD Multi-Factor Authentication (MFA), which provides two-step verification.***
 
-## All the questions Yes or no
+
+## Azure Active Directory Password Protection
+
+Users often create passwords that use common local words such as a school, sports team, or famous person. These passwords are easy to guess, and weak against dictionary-based attacks. To enforce strong passwords in your organization, Azure Active Directory (Azure AD) Password Protection provides a global and custom banned password list. A password change request fails if there's a match in these banned password list.
+
+To protect your on-premises Active Directory Domain Services (AD DS) environment, you can install and configure Azure AD Password Protection to work with your on-prem DC. This article shows you how to install and register the Azure AD Password Protection proxy service and ***Azure AD Password Protection DC agent*** in your on-premises environment.
+
+
+
+## All the questions Yes or no ( with the right answer)
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/085d7fd6-7435-45da-823d-05991246cd2c)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/6c50a1ff-3dd9-4eb5-95ef-f808cadc7ed0)
 
 
 
