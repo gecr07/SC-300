@@ -210,8 +210,6 @@ Maximum number of devices: This setting enables you to select the maximum number
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/596a7c3a-0284-4136-8ec0-7cff7ffc1f2a)
 
-
-
  ## Application Developer
 
 Users in this role can create application registrations when the "Users can register applications" setting is set to No. This role also grants permission to consent on one's own behalf when the "Users can consent to apps accessing company data on their behalf" setting is set to No. Users assigned to this role are added as owners when creating new application registrations.
@@ -253,12 +251,10 @@ To protect your on-premises Active Directory Domain Services (AD DS) environment
 
 
 
+
 ## All the questions Yes or no ( with the right answer)
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/085d7fd6-7435-45da-823d-05991246cd2c)
-
-![image](https://github.com/gecr07/SC-300/assets/63270579/6c50a1ff-3dd9-4eb5-95ef-f808cadc7ed0)
-
 
 
 
