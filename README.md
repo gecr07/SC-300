@@ -249,7 +249,7 @@ Users often create passwords that use common local words such as a school, sport
 
 To protect your on-premises Active Directory Domain Services (AD DS) environment, you can install and configure Azure AD Password Protection to work with your on-prem DC. This article shows you how to install and register the Azure AD Password Protection proxy service and ***Azure AD Password Protection DC agent*** in your on-premises environment.
 
-
+Para hacer que un usuario cabie su passd marcalo como "Compromised".
 
 
 ## All the questions Yes or no ( with the right answer)
