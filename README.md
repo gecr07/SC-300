@@ -260,10 +260,13 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 ![image](https://github.com/gecr07/SC-300/assets/63270579/2733bc52-bbf1-430b-8d09-7bc0e721fb6a)
 
 
-## All the questions Yes or no ( with the right answer)
+## All the questions Yes or no ( with the right answer) Todas las que ponga aqui son yes
+
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/085d7fd6-7435-45da-823d-05991246cd2c)
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/f99b85a9-4256-48d0-a9b5-41341ad71043)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/e2e93aa5-9fa7-4919-a9bb-03634f39e74c)
 
 
