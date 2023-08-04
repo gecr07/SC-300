@@ -251,10 +251,19 @@ To protect your on-premises Active Directory Domain Services (AD DS) environment
 
 Para hacer que un usuario cabie su passd marcalo como "Compromised".
 
+## Security defauls
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/16d520a2-2e2c-450f-b911-afe5cd622f88)
+
+Para asegurar que tu puedes tener control access a Microsoft 365 resources con condicinal access  tienes que desactivar  los security defaults.
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/2733bc52-bbf1-430b-8d09-7bc0e721fb6a)
+
 
 ## All the questions Yes or no ( with the right answer)
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/085d7fd6-7435-45da-823d-05991246cd2c)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/f99b85a9-4256-48d0-a9b5-41341ad71043)
 
 
