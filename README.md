@@ -260,6 +260,30 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 ![image](https://github.com/gecr07/SC-300/assets/63270579/2733bc52-bbf1-430b-8d09-7bc0e721fb6a)
 
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/2b8e617d-6d7f-4570-8f7a-9e7d5fadf538)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/a125bb8b-735a-4f7d-8504-3c5a0274f63e)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/eda2279a-bd5b-48e9-955c-862c73f90c5d)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/cb835e92-998d-4bbe-a055-a69354d3d902)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/626eb375-8a04-4115-a070-6da73eb09d80)
+
+> N, Y, Y. An administrator scoped to the administrative unit can manage properties of the group, such as group name or membership, but they cannot manage properties of the users or devices within that group (unless those users and devices are separately added as members of the administrative unit). Only Users 1 and 2 are directly added in the AU. ( respuesta correcta )
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/7b845abf-c01a-49f5-8210-24f348d136a7)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/4d53bd8f-2794-4ac6-8b7e-2e5ba2ab63e8)
+
+
+> El Privileged authentication administrator no puede configurar metodos de MFA alternativos solo puede quitar el recordar este dispositivo en el MFA solo el Seurity administrator puede de entre estos 3
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/76ce5f6d-55ac-48d0-9b75-9e6d6b43f75b)
+
+
+
 ## All the questions Yes or no ( with the right answer) Todas las que ponga aqui son yes
 
 
@@ -269,4 +293,5 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/e2e93aa5-9fa7-4919-a9bb-03634f39e74c)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/21f7236c-b4b2-4ffc-83ed-31116410347a)
 
