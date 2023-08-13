@@ -292,6 +292,8 @@ No se pueden crear access reviews para Devices
 
 A una App1 se le pueden asignar solo grupos de seguridad o 365 groups.
 
+Cuando te hable de "specifically block 'BASIC' Authentication in Exchange Online, not 'LEGACY' Authentication. Microsoft specifically details how to do this here:" Piensa en an application control profile in Microsoft Endpoint Manager.
+
 Solo se puden clonar built-in Azure subscription roles y si hay un rol asociado a eso pues ese!
 
 Terminos y condiciones no aceptados se gestionan mediante condicional access.
