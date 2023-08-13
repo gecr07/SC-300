@@ -295,3 +295,4 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/21f7236c-b4b2-4ffc-83ed-31116410347a)
 
+![image](https://github.com/gecr07/SC-300/assets/63270579/98914f8e-c73b-40ce-9562-d9d20aef1124)
