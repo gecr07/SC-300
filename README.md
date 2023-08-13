@@ -316,7 +316,7 @@ Service Support Administrator = Can read service health information and manage s
 
 Application Developer = Can create application registrations independent of the 'Users can register applications' setting.
 
-
+Cuando se trata de banned passwords la unica que hace como el bypass por asi decirlo es cambiar la S por el $ de ahi en fuera captura mayusculas minusculas y @. Asi que la mayoria de los passwrors va a estar banneados. 
 
 ## Cloud App Discovery in Microsoft Cloud App Security
 
