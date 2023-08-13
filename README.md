@@ -292,6 +292,8 @@ No se pueden crear access reviews para Devices
 
 A una App1 se le pueden asignar solo grupos de seguridad o 365 groups.
 
+Solo se puden clonar built-in Azure subscription roles y si hay un rol asociado a eso pues ese!
+
 Terminos y condiciones no aceptados se gestionan mediante condicional access.
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/29898135-574b-4162-ba83-283ec2bede8c)
