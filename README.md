@@ -282,6 +282,28 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/76ce5f6d-55ac-48d0-9b75-9e6d6b43f75b)
 
+## Clues
+
+Magaed identities are not elegible for AD role.
+
+Se puede crear un access review para un rol,grupo,app y un azure ad role.
+
+No se pueden crear access reviews para Devices
+
+A una App1 se le pueden asignar solo grupos de seguridad o 365 groups.
+
+Terminos y condiciones no aceptados se gestionan mediante condicional access.
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/29898135-574b-4162-ba83-283ec2bede8c)
+
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/a587e3e9-8421-480b-9981-76cae72db9fa)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/a172c686-2ee1-4397-a4e8-ddf680decb54)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/da5144f2-6788-4939-a29a-5995a0992055)
+
+
 
 
 ## All the questions Yes or no ( with the right answer) Todas las que ponga aqui son yes
@@ -296,3 +318,11 @@ Para asegurar que tu puedes tener control access a Microsoft 365 resources con c
 ![image](https://github.com/gecr07/SC-300/assets/63270579/21f7236c-b4b2-4ffc-83ed-31116410347a)
 
 ![image](https://github.com/gecr07/SC-300/assets/63270579/98914f8e-c73b-40ce-9562-d9d20aef1124)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/7db100a8-cf21-4c2c-aea9-abf9e1616ac1)
+
+![image](https://github.com/gecr07/SC-300/assets/63270579/3f1e064a-a0d2-4add-bf77-f3d10924e6a4)
+
+
+
+
