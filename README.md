@@ -304,6 +304,19 @@ Terminos y condiciones no aceptados se gestionan mediante condicional access.
 ![image](https://github.com/gecr07/SC-300/assets/63270579/da5144f2-6788-4939-a29a-5995a0992055)
 
 
+Application Administrator = Can create and manage all aspects of app registrations and enterprise apps.
+
+Cloud Application Administrator = Can create and manage all aspects of app registrations and enterprise apps ***except App Proxy***.
+
+Service Support Administrator = Can read service health information and manage support tickets.
+
+Application Developer = Can create application registrations independent of the 'Users can register applications' setting.
+
+
+
+## Cloud App Discovery in Microsoft Cloud App Security
+
+> Cloud Discovery analyzes your traffic logs against the Microsoft Defender for Cloud Apps catalog of over 31,000 cloud apps. The apps are ranked and scored based on more than 90 risk factors to provide you with ongoing visibility into cloud use, Shadow IT, and the risk Shadow IT poses into your organization
 
 
 ## All the questions Yes or no ( with the right answer) Todas las que ponga aqui son yes
